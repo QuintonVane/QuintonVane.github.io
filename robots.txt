@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://QuintonVane.github.io/sitemap.xml
